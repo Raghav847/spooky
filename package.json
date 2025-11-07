@@ -1,0 +1,12 @@
+{
+  "name": "spooky",
+  "version": "1.0.0",
+  "description": "A platform for sharing ghostly encounters",
+  "license": "ISC",
+  "author": "badbane",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
